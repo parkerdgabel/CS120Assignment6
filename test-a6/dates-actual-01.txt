@@ -1,0 +1,4 @@
+  File "dates.py", line 27
+    print(“ERROR: Could not open file “ + filename)
+               ^
+SyntaxError: invalid character in identifier
